@@ -1,5 +1,5 @@
 
-import { GlobalStye } from "./globalStyles/GlobalStyles"
+import { GlobalStyles } from "./GlobalStyles/GlobalStyles";
 import {
   MainContainer,
   ContainerTasks,
@@ -15,7 +15,7 @@ function App() {
 
   return (
     <PageContainer>
-      <GlobalStye />
+      <GlobalStyles />
       <MainContainer>
         <h1>Lista de tarefas</h1>
         <ContainerTasks>

@@ -38,8 +38,3 @@ export const ContainerTasks = styled.section`
     background-color: #6d6565;
     
 `
-
-export const ContainerList = styled.div`
-    display: flex;
-    flex-direction: column;
-`
